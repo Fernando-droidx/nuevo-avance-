@@ -1,4 +1,4 @@
-#Trabajo Final: Licorería App en C# con base de datos SQL
+##Trabajo Final: Licorería App en C# con base de datos SQL
 
 Este es el README para el trabajo final de la Licorería App, un proyecto desarrollado en C# con una base de datos en SQL. La aplicación sigue una arquitectura basada en capas y permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en la base de datos.
 
